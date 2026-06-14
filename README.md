@@ -30,6 +30,6 @@ public class Main {
         System.out.println("\nWelcome, " + player.name + "!");
         player.showStats();
 
-        scanner.close();
+        scanner.close(); ))
     }
 }
